@@ -12,7 +12,7 @@
 "Vol. 1 & 2","Mullein","Gigan - Live Wirez","Dragon Ball Z: Cooler's Revenge"
 "Vol. 1 & 2","Mugworth","King Geedorah feat. Biolante - Fastlane","Coke Escovedo - Hangin' On"
 "Vol. 1 & 2","All Spice","MF DOOM - Kon Karne","Sade - Is It a Crime"
-"Vol. 1 & 2","Lovage","MF DOOM feat. Angelika & 4ize - Guinnesses","Faze-O - True Love"
+"Vol. 1 & 2","Lovage","MF DOOM feat. Angelika & 4ize - Guinnesses","Faze-O - True Love","Fantastic Four - Return of Doctor Doom - (1970s Radio Show)"
 "Vol. 1 & 2","Eucalyptus","MF Grimm - I.B.'s","George Duke - Sister Serene","Jon Lucien - Maiden Voyage"
 "Vol. 1 & 2","Myrrh","MF DOOM - Deep Fried Frenz","Whodini - Friends","Ronnie Laws - Friends and Strangers"
 "Vol. 3 & 4","Agrimony","Masta Ace - Ninteen Seventy Something","Otis Redding - Your Feeling Is Mine"
@@ -20,13 +20,13 @@
 "Vol. 3 & 4","Benzoin Gum","Bishop Nehru - Lemon Grass","Isaac Hayes - What Does It Take","Lonnie Liston Smith - A Lonely Way to Be"
 "Vol. 3 & 4","Bergamot Wild","Monsta Island Czars - Escape From Monsta Isle","Roy Ayers Ubiquity - Vibrations"
 "Vol. 3 & 4","Calamus Root","MF DOOM - Gas Drawls","Steely Dan - Black Cow"
-"Vol. 3 & 4","Dragon's Blood Resin","MF DOOM - Go With The Flow","Spider-Man - Season 3 Episode 6 (Knight Must Fall/The Devious Dr. Dumpty)"
+"Vol. 3 & 4","Dragon's Blood Resin","MF DOOM - Go With The Flow","Spinners - Ain't No Price On Happiness","Spider-Man - Season 3 Episode 6 (Knight Must Fall/The Devious Dr. Dumpty)"
 "Vol. 3 & 4","Elder Blossoms","John Robinson feat. Invizible Handz - Crazy Music","Galt MacDermot - Space","Aubrey Hodges and Danny Lewis - Doom Playstation Sound Effects"
 "Vol. 3 & 4","Styrax Gum","DOOM - That's That","Galt MacDermot - Princess Gika"
 "Vol. 3 & 4","Blood Root","MF DOOM - I Hear Voices","George Duke - For Love (I Come Your Friend)"
 "Vol. 3 & 4","Star Anis","MF DOOM feat. Monsta Island Czars - No Snakes Alive","Riichiro Manabe - Kidnap","Fist of the North Star - Season 1 Episode 7 (Villains! Shall We Have a Countdown to Death?)"
 "Vol. 3 & 4","Lemon Grass","Gigan - Krazy World","The 5th Dimension - Requiem: 820 Latham"
-"Vol. 3 & 4","Four Thieves Vinegar","Megalon - Rain Blood",
+"Vol. 3 & 4","Four Thieves Vinegar","Megalon - Rain Blood","Gino Vannelli - Appaloosa"
 "Vol. 3 & 4","Galangal Root","MF DOOM - Dead Bent","Isaac Hayes - Walk on By"
 "Vol. 3 & 4","Spikenard","KMD - Popcorn","Gylan Kain - Loose Here"
 "Vol. 3 & 4","Cinquefoil","Prophetix - Sumpthin's Gotta Give","Ronnie Laws - Solid Ground"
@@ -59,7 +59,7 @@
 "Vol. 7 & 8","Chrysanthemum Flowers","John Robinson - Expression feat. Tiffany Paige","L.A. Carnival - Can You Hum a Tune?"
 "Vol. 9 & 0","Vinca Rosea","Hassan Chop - It's No Secret","L.A. Carnival - Blind Man"
 "Vol. 9 & 0","Burdock Root","John Robinson - Rapslotation","Bobby McFerrin - Moondance"
-"Vol. 9 & 0","Vervain/Metal Flowers","MF DOOM - Beef Rapp","Spider-man - Season 1 Episode 17 (Cannon of Doom)","Wild Style (1982)","Bowery at Midnight (1942)","Logan's Run (1976)","Frank Zappa - Would You Like a Snack?"
+"Vol. 9 & 0","Vervain/Metal Flowers","MF DOOM - Beef Rapp","Spider-man - Season 1 Episode 17 (Cannon of Doom)","Wild Style (1982)","Bowery at Midnight (1942)","Logan's Run (1976)",
 "Vol. 9 & 0","Bergamont","NehruvianDOOM - Darkness (HBU)","L.A. Carnival - Black Man's March"
 "Vol. 9 & 0","Podina","MF DOOM - ? feat. Kurious","Isaac Hayes Movement - Vykkii"
 "Vol. 9 & 0","Untitled (Meditation)","King Geedorah - The Fine Print","Bob Sakuma - Emblem G","Just-Ice - That Girl Is a Slut","Invasion of Astro-Monster (1965)"
@@ -106,18 +106,18 @@
 "Hidden Herbs","Unnamed ('Olive leaf' on Hidden Herbs)","Monsta Island Czars - Comin' At You",
 "Hidden Herbs","Unnamed ('Peppermint' on Hidden Herbs)","MF DOOM - Vomitspit",
 "Hidden Herbs","Unnamed ('Feverfew' on Hidden Herbs)","Ghostface Killah - Charlie Brown",
-"Hidden Herbs","+ Unnamed ('Cayenne Pepper' on Hidden Herbs)","MF DOOM - Gumbo",
+"Hidden Herbs","+ Unnamed ('Cayenne Pepper' on Hidden Herbs)","MF DOOM - Gumbo","Frank Zappa - Would You Like a Snack?"
 "Hidden Herbs","+ Unnamed ('Caraway' on Hidden Herbs)","MF DOOM - Fillet-O-Rapper",
 "Hidden Herbs","Unnamed ('Thyme' on Hidden Herbs)","MF Grimm - To All My Comrades",
 "Hidden Herbs","Unnamed ('Dandelion' on Hidden Herbs)","MF DOOM - Kookies (original)",
 "Herbless","The Truth/ Hyenna / Last Laught (instrumental)","John Robinson - The Truth",
 "Herbless","There She Goes / Go Sane (instrumental)","John Robinson - There She Goes",
-"Herbless","?","Marvin Green - Last Wrap","Marvin Green - Last Wrap"
-"Herbless","?","Savage - City Knights","Savage - City Knights"
+"Herbless","?","Marvin Green - Last Wrap",
+"Herbless","?","Savage - City Knights",
 "Herbless","First Day Of Class (instrumental)","NehruvianDOOM - First Day Of Class / Intro",
 "Herbless","Om (instrumental)","NehruvianDOOM - Om",
 "Herbless","Mean The Most (instrumental)","NehruvianDOOM - Mean The Most",
-"Herbless","Caskets (instrumental)","NehruvianDOOM - Caskets",
+"Herbless","Caskets (instrumental)","NehruvianDOOM - Caskets","Gary Davis - Stay With Me","Miles Davis and Charlie Parker - Out of Nowhere","Johnny Jenkins - I Walk on Gilded Splinters","Youngblood (1978)"
 "Herbless","Alex (instrumental)","Ghostface Killah - Alex (Stolen Script)",
 "Herbless","Take 'Em To War / WW III (instrumental)","MF Grimm feat. MF DOOM - Take 'Em To War / WW III",
 "Herbless","Life And Death (instrumental)","MF Grimm - Life And Death","Cannonball Adderley - Virgo: For Pam"
