@@ -841,16 +841,6 @@
             "http://www.discogs.com/MetalFingers-Presents-Special-Herbs-The-Box-Set-Vol0-9/master/369512"
         ],
         "songs": {
-            "? Black Bastards! (Instrumental)": {
-                "samples": [
-                    "Cannonball Adderley - Virgo: For Pam",
-                    "Gylan Kain - I Ain't Black [vocal]",
-                    "Five Stairsteps - Don't Change Your Love [drums]"
-                ],
-                "songs": [
-                    "KMD - Black Bastards"
-                ]
-            },
             "? Constipated Monkey (Instrumental)": {
                 "samples": [
                     "Jimi Hendrix - Belly Button Window",
@@ -1129,6 +1119,16 @@
     },
     "Herbless": {
         "songs": {
+            "? Black Bastards! (Instrumental)": {
+                "samples": [
+                    "Cannonball Adderley - Virgo: For Pam",
+                    "Gylan Kain - I Ain't Black [vocal]",
+                    "Five Stairsteps - Don't Change Your Love [drums]"
+                ],
+                "songs": [
+                    "KMD - Black Bastards"
+                ]
+            },
             "? F*#@ Wit' Ya Head (Instrumental)": {
                 "samples": [
                     "The Mamas & the Papas - Pearl",
