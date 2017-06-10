@@ -765,14 +765,6 @@
                     "MF DOOM - Hey!"
                 ]
             },
-            "Impostas (Instrumental)": {
-                "samples": [
-                    "Street Fighter Zero(/Alpha) 2 - Charlie Ending (videogame)"
-                ],
-                "songs": [
-                    "MF Grimm & MF DOOM - Impostas"
-                ]
-            },
             "Red And Gold (Instrumental)": {
                 "samples": [
                     "The Deele - Shoot 'Em Up Movies"
@@ -945,7 +937,7 @@
                     "Little Richard - The Rill Thing [vocal]"
                 ],
                 "songs": [
-                    "KMD - What A Nigga Know?"
+                    "KMD - What A Nigga Know? (Remix)"
                 ]
             },
             "? Who Me? (Instrumental)": {
@@ -956,15 +948,6 @@
                 ],
                 "songs": [
                     "KMD - Who Me?"
-                ]
-            },
-            "? Sweet Premium Wine (Instrumental)": {
-                "samples": [
-                    "Five Stairsteps & Cubie - The New Dance Craze",
-                    "Burl Ives - I Know An Old Lady [vocal]"
-                ],
-                "songs": [
-                    "KMD - Sweet Premium Wine"
                 ]
             },
             "? Garbage Day #3 (Instrumental)": {
@@ -1044,25 +1027,6 @@
                     "Hell Razah - Black Kingz"
                 ]
             },
-            "+ Fillet-O-Rapper (Instrumental)": {
-                "samples": [
-                    "Hubert Laws - Mean Lene",
-                    "The Electric Company - Euell Gibbons Spoof [vocal]",
-                    "Hell Up in Harlem (1973)"
-                ],
-                "songs": [
-                    "MF DOOM - Fillet-O-Rapper",
-                    "John Robinson - Shrink Rap"
-                ]
-            },
-            "Angelz (Instrumental)": {
-                "samples": [
-                    "Kentarō Haneda - Jokyoku (Space Warrior Baldios OST)"
-                ],
-                "songs": [
-                    "Ghostface Killah feat. MF DOOM - Angelz"
-                ]
-            },
             "Kookies (Instrumental)": {
                 "samples": [
                     "The Electric Prunes - The Adoration",
@@ -1071,55 +1035,21 @@
                 "songs": [
                     "MF DOOM - Kookies"
                 ]
-            },
-            "Charlie Brown (Instrumental)": {
-                "samples": [
-                    "Caetano Veloso - Alfomega"
-                ],
-                "songs": [
-                    "Ghostface Killah - Charlie Brown"
-                ]
-            },
-            "One Beer (skit) (Instrumental)": {
-                "samples": [
-                    "Spider-Man - Season 1 Episode 2 (Dr. Doom Master of the World)",
-                    "Bryan Ferry - You Go To My Head [drums]"
-                ],
-                "songs": [
-                    "MF DOOM - One Beer (skit)",
-                    "Masta Killa - E.N.Y. House"
-                ]
-            },
-            "Comin' At You (Instrumental)": {
-                "samples": [
-                    "Kleeer - Intimate Connection"
-                ],
-                "songs": [
-                    "Monsta Island Czars - Comin' At You"
-                ]
-            },
-            "Vomitspit (Instrumental)": {
-                "samples": [
-                    "Mashmakhan - Happy You Should Be",
-                    "Bryan Ferry - You Go To My Head [drums]"
-                ],
-                "songs": [
-                    "MF DOOM - Vomitspit"
-                ]
-            },
-            "To All My Comrades (Instrumental)": {
-                "samples": [
-                    ""
-                ],
-                "songs": [
-                    "MF Grimm - To All My Comrades"
-                ]
             }
         }
     },
     "Herbless": {
         "songs": {
-            "? Black Bastards! (Instrumental)": {
+            "": {
+                "samples": [
+                    "Five Stairsteps & Cubie - The New Dance Craze",
+                    "Burl Ives - I Know An Old Lady [vocal]"
+                ],
+                "songs": [
+                    "KMD - Sweet Premium Wine"
+                ]
+            },
+            " ": {
                 "samples": [
                     "Cannonball Adderley - Virgo: For Pam",
                     "Gylan Kain - I Ain't Black [vocal]",
@@ -1129,7 +1059,7 @@
                     "KMD - Black Bastards"
                 ]
             },
-            "? F*#@ Wit' Ya Head (Instrumental)": {
+            "  ": {
                 "samples": [
                     "The Mamas & the Papas - Pearl",
                     "Uncle Louie - I Like Funky Music",
@@ -1139,7 +1069,7 @@
                     "KMD - F*#@ Wit' Ya Head"
                 ]
             },
-            "? Suspended Animation (Instrumental)": {
+            "   ": {
                 "samples": [
                     "Player - Baby Come Back",
                     "Biz Markie - Things Get A Little Easier [vocal]",
@@ -1150,7 +1080,7 @@
                     "KMD - Suspended Animation"
                 ]
             },
-            "? Subroc's Mission (Instrumental)": {
+            "    ": {
                 "samples": [
                     "The Hassles - 4 O'Clock In The Morning",
                     "Adriana Caselotti - Dwarfs' Yodel Song [vocal]"
@@ -1159,7 +1089,7 @@
                     "KMD - Subroc's Mission"
                 ]
             },
-            "? Mr. Hood at Piocalles/Crackpot (Instrumental)": {
+            "     ": {
                 "samples": [
                     "Johnny Guitar Watson - Superman Lover",
                     "Eddie Floyd - Bring It On Home To Me"
@@ -1168,7 +1098,7 @@
                     "KMD - Mr. Hood at Piocalles/Crackpot"
                 ]
             },
-            "? Boogie Man (Instrumental)": {
+            "      ": {
                 "samples": [
                     "The Nite-Liters - Itchy Brother"
                 ],
@@ -1176,7 +1106,7 @@
                     "KMD - Boogie Man"
                 ]
             },
-            "? 808 Man (Instrumental)": {
+            "       ": {
                 "samples": [
                     "The Blackbyrds - Supernatural Feeling",
                     "Funkadelic - Call The Doctor",
@@ -1186,7 +1116,7 @@
                     "KMD - 808 Man"
                 ]
             },
-            "? Hard Wit No Hoe (Instrumental)": {
+            "        ": {
                 "samples": [
                     "Samba Soul - Mambo No. 5",
                     "Bobby Byrd - I Know You Got Soul",
@@ -1197,7 +1127,7 @@
                     "KMD - Hard Wit No Hoe"
                 ]
             },
-            "? Gimme (Instrumental)": {
+            "         ": {
                 "samples": [
                     "Richard Roundtree - Lovin'"
                 ],
@@ -1205,7 +1135,7 @@
                     "KMD - Gimme"
                 ]
             },
-            "? Mr. Hood Meets Onyx (Instrumental)": {
+            "          ": {
                 "samples": [
                     "Booker T. & The M.G.'s - No Matter What Shape (Your Stomach's In)"
                 ],
@@ -1213,7 +1143,7 @@
                     "KMD - Mr. Hood Meets Onyx"
                 ]
             },
-            "? Bananapeel Blues (Instrumental)": {
+            "           ": {
                 "samples": [
                     "Gil Scott-Heron & Brian Jackson - H2Ogate Blues [vocal]"
                 ],
@@ -1221,15 +1151,7 @@
                     "KMD - Bananapeel Blues"
                 ]
             },
-            "? Checkmate (Instrumental)": {
-                "samples": [
-                    "Roy Ayers - No Stranger To Love Want You"
-                ],
-                "songs": [
-                    "MF DOOM & Earthquake - Checkmate"
-                ]
-            },
-            "? The World According To Hubert Dover (Instrumental)": {
+            "            ": {
                 "samples": [
                     ""
                 ],
@@ -1237,15 +1159,23 @@
                     "3rd Bass - The World According To Hubert Dover"
                 ]
             },
-            "Alex (Instrumental)": {
+            "             ": {
                 "samples": [
-                    ""
+                    "Roy Ayers - No Stranger To Love Want You"
+                ],
+                "songs": [
+                    "MF DOOM & Earthquake - Checkmate"
+                ]
+            },
+            "              ": {
+                "samples": [
+                    "Henry Mancini - First Job"
                 ],
                 "songs": [
                     "Ghostface Killah - Alex (Stolen Script)"
                 ]
             },
-            "Life And Death (Instrumental)": {
+            "               ": {
                 "samples": [
                     "Cannonball Adderley - Virgo: For Pam",
                     "Michael Jackson - Ain't No Sunshine [drums]"
@@ -1254,7 +1184,7 @@
                     "MF Grimm - Life And Death"
                 ]
             },
-            "Take 'Em To War / WW III (Instrumental)": {
+            "                ": {
                 "samples": [
                     ""
                 ],
@@ -1262,15 +1192,7 @@
                     "MF Grimm feat. MF DOOM - Take 'Em To War / WW III"
                 ]
             },
-            "Take Em To War (Instrumental)": {
-                "samples": [
-                    ""
-                ],
-                "songs": [
-                    "MF Grimm - Take Em To War"
-                ]
-            },
-            "The Original (Instrumental)": {
+            "                 ": {
                 "samples": [
                     "Marley Marl, Heavy D, and Biz Markie - We Write the Songs [vocal]"
                 ],
@@ -1278,7 +1200,7 @@
                     "MF Grimm - The Original"
                 ]
             },
-            "Caskets (Instrumental)": {
+            "                  ": {
                 "samples": [
                     "Gary Davis - Stay With Me",
                     "Miles Davis and Charlie Parker - Out of Nowhere",
@@ -1290,7 +1212,7 @@
                     "NehruvianDOOM - Caskets"
                 ]
             },
-            "First Day Of Class (Instrumental)": {
+            "                   ": {
                 "samples": [
                     ""
                 ],
@@ -1298,7 +1220,7 @@
                     "NehruvianDOOM - First Day Of Class / Intro"
                 ]
             },
-            "Mean The Most (Instrumental)": {
+            "                    ": {
                 "samples": [
                     "Jards Macalé - 78 Rotações",
                     "Bob Dorough - Little Twelvetoes",
@@ -1308,7 +1230,7 @@
                     "NehruvianDOOM - Mean The Most"
                 ]
             },
-            "Om (Instrumental)": {
+            "                     ": {
                 "samples": [
                     "Bob Dorough - Little Twelvetoes"
                 ],
@@ -1316,9 +1238,9 @@
                     "NehruvianDOOM - Om"
                 ]
             },
-            "The Truth / Hyena / Last Laught (Instrumental)": {
+            "                      ": {
                 "samples": [
-                    ""
+                    "Azymuth - Melo Da Cuica"
                 ],
                 "songs": [
                     "John Robinson - The Truth",
@@ -1326,16 +1248,17 @@
                     "MF DOOM feat. Trunks - Last Laugh"
                 ]
             },
-            "There She Goes / Go Sane (Instrumental)": {
+            "                       ": {
                 "samples": [
-                    ""
+                    "Ramsay Lewis - Julia",
+                    "Bob Marley - There She Goes [vocal]"
                 ],
                 "songs": [
                     "John Robinson - There She Goes",
                     "MC Paul Barman - Go Sane"
                 ]
             },
-            "Take Me To Your Leader (Instrumental)": {
+            "                        ": {
                 "samples": [
                     "Robert Cobert Orchestra - Dark Shadows Theme",
                     "Hall & Oates - I Can't Go for That (No Can Do) [drums]",
@@ -1346,7 +1269,7 @@
                     "King Geedorah - Take Me To Your Leader"
                 ]
             },
-            "Tick, Tick... (Instrumental)": {
+            "                         ": {
                 "samples": [
                     "Beatless - Glass Onion"
                 ],
@@ -1354,15 +1277,58 @@
                     "MF Grimm - Tick, Tick..."
                 ]
             },
-            "Time We Faced The Doom (Instrumental)": {
+            "                          ": {
                 "samples": [
-                    ""
+                    "Fantastic Four - Season 1 Episode 1 (The Way It All Began)",
+                    "Fantastic Four - Season 1 Episode 18 (The Deadly Director)",
+                    "Wild Style (1982) [vocal]",
+                    "Roy Ayers - No Strange to Love / Want You"
                 ],
                 "songs": [
                     "MF DOOM - Time We Faced The Doom"
                 ]
             },
-            "Gumbo (Instrumental)": {
+            "                            ": {
+                "samples": [
+                    "Pet Shop Boys - West End Girls"
+                ],
+                "songs": [
+                    "MC Paul Barman - Oil!"
+                ]
+            },
+            "                             ": {
+                "samples": [
+                    "Barış Manço - Gönül Dağı"
+                ],
+                "songs": [
+                    "King Geedorah & Biollante - Snake Charmer"
+                ]
+            },
+            "                              ": {
+                "samples": [
+                    "Jeff Beck - Come Dancing [drums]"
+                ],
+                "songs": [
+                    "MF DOOM - Hero vs. Villlain (Epilogue)"
+                ]
+            },
+            "                               ": {
+                "samples": [
+                    "DJ Khaled - I Got The Keys"
+                ],
+                "songs": [
+                    "JJ DOOM - Banished (King Geedorah remix)"
+                ]
+            },
+            "                                ": {
+                "samples": [
+                    ""
+                ],
+                "songs": [
+                    "Hassan Chop - Fresh Cutz"
+                ]
+            },
+            "(Cayenne Pepper)": {
                 "samples": [
                     "Frank Zappa - Would You Like a Snack?",
                     "The Electric Company - Euell Gibbons Spoof [vocal]"
@@ -1371,43 +1337,74 @@
                     "MF DOOM - Gumbo"
                 ]
             },
-            "Oil! (Instrumental)": {
+            "(Caraway)": {
                 "samples": [
-                    ],
-                "songs": [
-                    "MC Paul Barman - Oil!"
-                ]
-            },
-            "Snake Charmer (Instrumental)": {
-                "samples": [
-                    "Barış Manço - Gönül Dağı"
+                    "Hubert Laws - Mean Lene",
+                    "The Electric Company - Euell Gibbons Spoof [vocal]",
+                    "Hell Up in Harlem (1973)"
                 ],
                 "songs": [
-                    "King Geedorah & Biollante - Snake Charmer"
+                    "MF DOOM - Fillet-O-Rapper",
+                    "John Robinson - Shrink Rap"
                 ]
             },
-            "Banished (King Geedorah remix) (Instrumental)": {
+            "(Olive Leaf)": {
                 "samples": [
-                    "DJ Khaled - I Got The Keys"
+                    "Kleeer - Intimate Connection"
                 ],
                 "songs": [
-                    "JJ DOOM - Banished (King Geedorah remix)"
+                    "Monsta Island Czars - Comin' At You"
                 ]
             },
-            "Fresh Cutz (Instrumental)": {
+            "(Feverfew)": {
+                "samples": [
+                    "Caetano Veloso - Alfomega"
+                ],
+                "songs": [
+                    "Ghostface Killah - Charlie Brown"
+                ]
+            },
+            "(Oregon Grape Root)": {
+                "samples": [
+                    "Street Fighter Zero(/Alpha) 2 - Charlie Ending (videogame)"
+                ],
+                "songs": [
+                    "MF Grimm & MF DOOM - Impostas"
+                ]
+            },
+            "(Thyme)": {
                 "samples": [
                     ""
                 ],
                 "songs": [
-                    "Hassan Chop - Fresh Cutz"
+                    "MF Grimm - To All My Comrades"
                 ]
             },
-            "Hero vs. Villain (Instrumental)": {
+            "(Angelica)": {
                 "samples": [
-                    "Jeff Beck - Come Dancing [drums]"
+                    "Kentarō Haneda - Jokyoku (Space Warrior Baldios OST)"
                 ],
                 "songs": [
-                    "MF DOOM - Hero vs. Villlain (Epilogue)"
+                    "Ghostface Killah feat. MF DOOM - Angelz"
+                ]
+            },
+            "(Oat Straw)": {
+                "samples": [
+                    "Spider-Man - Season 1 Episode 2 (Dr. Doom Master of the World)",
+                    "Bryan Ferry - You Go To My Head [drums]"
+                ],
+                "songs": [
+                    "MF DOOM - One Beer (outro skit)",
+                    "Masta Killa - E.N.Y. House"
+                ]
+            },
+            "(Peppermint)": {
+                "samples": [
+                    "Mashmakhan - Happy You Should Be",
+                    "Bryan Ferry - You Go To My Head [drums]"
+                ],
+                "songs": [
+                    "MF DOOM - Vomitspit"
                 ]
             }
         }
