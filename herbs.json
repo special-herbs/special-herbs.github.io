@@ -1026,15 +1026,6 @@
                 "songs": [
                     "Hell Razah - Black Kingz"
                 ]
-            },
-            "Kookies (Instrumental)": {
-                "samples": [
-                    "The Electric Prunes - The Adoration",
-                    "Stetsasonic - Go Stetsa I [drums]"
-                ],
-                "songs": [
-                    "MF DOOM - Kookies"
-                ]
             }
         }
     },
@@ -1346,6 +1337,15 @@
                 "songs": [
                     "MF DOOM - Fillet-O-Rapper",
                     "John Robinson - Shrink Rap"
+                ]
+            },
+            "(Dandelion)": {
+                "samples": [
+                    "The Electric Prunes - The Adoration",
+                    "Stetsasonic - Go Stetsa I [drums]"
+                ],
+                "songs": [
+                    "MF DOOM - Kookies (Remix)"
                 ]
             },
             "(Olive Leaf)": {
