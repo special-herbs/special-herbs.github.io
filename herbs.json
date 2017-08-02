@@ -794,7 +794,8 @@
             },
             "One In A Million (Instrumental)": {
                 "samples": [
-                    ""
+                    "Aaliyah - Four Page Letter",
+                    "Aaliyah - One In A Million [vocal]"
                 ],
                 "songs": [
                     "Megalon - One In A Million"
@@ -817,7 +818,15 @@
                     "DOOM - The Green Whore Net"
                 ]
             },
-            "DOOM x Akomplice beat (tape)": {
+            "DOOM x Akomplice beat (white tape)": {
+                "samples": [
+                    "Tim Maia - O Caminho Do Bem"
+                ],
+                "songs": [
+                    ""
+                ]
+            },
+            "DOOM x Akomplice beat (yellow tape)": {
                 "samples": [
                     ""
                 ],
