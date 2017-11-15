@@ -744,6 +744,14 @@
             "http://www.discogs.com/DOOM-Gazzillion-Ear/release/2087677"
         ],
         "songs": {
+            "Impostas (Instrumental)": {
+                "samples": [
+                    "Street Fighter Zero(/Alpha) 2 - Charlie Ending (videogame)"
+                ],
+                "songs": [
+                    "MF Grimm & MF DOOM - Impostas"
+                ]
+            },
             "Project Jazz (Instrumental)": {
                 "samples": [
                     "J.C. Davis - A New Day (Is Here at Last)"
@@ -1015,7 +1023,7 @@
             },
             "Unnamed (#10 on Madvillainz Mix)": {
                 "samples": [
-                    "Koichi Sugiyama - 因果地平へ (To the Horizon of Cause and Affect) from 伝説巨神イデオン ・Ⅱ (Space Runaway Ideon II)"
+                    "Koichi Sugiyama - 因果地平へ (To the Horizon of Cause and Affect) from 伝説巨神イデオン ・Ⅱ (Space Runaway Ideon II) / Albert verrechia"
                 ],
                 "songs": [
                     "NehruvianDOOM - So Alone"
@@ -1363,14 +1371,6 @@
                 ],
                 "songs": [
                     "Ghostface Killah - Charlie Brown"
-                ]
-            },
-            "(Oregon Grape Root)": {
-                "samples": [
-                    "Street Fighter Zero(/Alpha) 2 - Charlie Ending (videogame)"
-                ],
-                "songs": [
-                    "MF Grimm & MF DOOM - Impostas"
                 ]
             },
             "(Thyme)": {
