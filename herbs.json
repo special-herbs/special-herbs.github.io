@@ -177,9 +177,9 @@
     },
     "Vol. 3 & 4": {
         "releases": [
-            "http://www.discogs.com/Metal-Fingers-Special-Herbs-Vol-3/release/398826",
-            "http://www.discogs.com/Metal-Fingers-Special-Herbs-Vol-3-4/master/480150",
-            "http://www.discogs.com/Metal-Fingers-Special-Herbs-456/master/63233"
+            "https://www.discogs.com/Metal-Fingers-Special-Herbs-Vol-3/release/398826",
+            "https://www.discogs.com/Metal-Fingers-Special-Herbs-Vol-3-4/master/480150",
+            "https://www.discogs.com/Metal-Fingers-Special-Herbs-456/master/63233"
         ],
         "songs": {
             "Agrimony": {
@@ -342,8 +342,8 @@
     },
     "Vol. 5 & 6": {
         "releases": [
-            "http://www.discogs.com/Metal-Fingers-Special-Herbs-456/master/63233",
-            "http://www.discogs.com/Metal-Fingers-Special-Herbs-Vol-5-6/master/810624"
+            "https://www.discogs.com/Metal-Fingers-Special-Herbs-456/master/63233",
+            "https://www.discogs.com/Metal-Fingers-Special-Herbs-Vol-5-6/master/810624"
         ],
         "songs": {
             "Pennyroyal": {
@@ -481,7 +481,7 @@
     },
     "Vol. 7 & 8": {
         "releases": [
-            "http://www.discogs.com/Metal-Fingers-Special-Herbs-Vol-7-8/master/63234"
+            "https://www.discogs.com/Metal-Fingers-Special-Herbs-Vol-7-8/master/63234"
         ],
         "songs": {
             "Safed Musli": {
@@ -595,7 +595,7 @@
     },
     "Vol. 9 & 0": {
         "releases": [
-            "http://www.discogs.com/Metal-Fingers-Special-Herbs-Vol-9-0/master/63236"
+            "https://www.discogs.com/Metal-Fingers-Special-Herbs-Vol-9-0/master/63236"
         ],
         "songs": {
             "Vinca Rosea": {
@@ -729,19 +729,19 @@
     },
     "Hidden Herbs": {
         "releases": [
-            "http://www.discogs.com/MF-Doom-The-MIC-Red-Gold/release/180885",
-            "http://www.discogs.com/Megalon-One-In-A-Million-Peace-To-The-Homeless/release/306504",
-            "https://www.discogs.com/Rodan-Witchcraft-II/release/857131",
-            "http://www.discogs.com/MF-Doom-MoreMmLeftOvers/master/63225",
-            "http://www.discogs.com/MF-Doom-Operation-Doomsday/release/3029842",
-            "http://www.discogs.com/MF-Doom-Hoe-Cakes-Potholders/master/489708",
-            "http://www.discogs.com/MF-Doom-Dead-Bent-Gas-Drawls-Hey/release/193642",
             "https://www.discogs.com/MF-Doom-The-MIC-Red-Gold/release/180885",
-            "http://www.discogs.com/MF-Doom-MF-Grimm-MF/release/725799",
-            "http://www.discogs.com/Hell-Razah-Buried-Alive-Project-Jazz/release/935353",
-            "http://www.discogs.com/Non-Prophets-Damage/release/303915",
-            "http://www.discogs.com/Babbletron-Space-Tech-Banana-Clip-All-The-Way-Hype-And-One-And-What/release/711749",
-            "http://www.discogs.com/DOOM-Gazzillion-Ear/release/2087677"
+            "https://www.discogs.com/Megalon-One-In-A-Million-Peace-To-The-Homeless/release/306504",
+            "https://www.discogs.com/Rodan-Witchcraft-II/release/857131",
+            "https://www.discogs.com/MF-Doom-MoreMmLeftOvers/master/63225",
+            "https://www.discogs.com/MF-Doom-Operation-Doomsday/release/3029842",
+            "https://www.discogs.com/MF-Doom-Hoe-Cakes-Potholders/master/489708",
+            "https://www.discogs.com/MF-Doom-Dead-Bent-Gas-Drawls-Hey/release/193642",
+            "https://www.discogs.com/MF-Doom-The-MIC-Red-Gold/release/180885",
+            "https://www.discogs.com/MF-Doom-MF-Grimm-MF/release/725799",
+            "https://www.discogs.com/Hell-Razah-Buried-Alive-Project-Jazz/release/935353",
+            "https://www.discogs.com/Non-Prophets-Damage/release/303915",
+            "https://www.discogs.com/Babbletron-Space-Tech-Banana-Clip-All-The-Way-Hype-And-One-And-What/release/711749",
+            "https://www.discogs.com/DOOM-Gazzillion-Ear/release/2087677"
         ],
         "songs": {
             "Impostas (Instrumental)": {
@@ -847,10 +847,10 @@
     },
     "KMD": {
         "releases": [
-            "http://www.discogs.com/KMD-Instrumentals-1991-94/release/711699",
-            "http://www.discogs.com/KMD-Nitty-Gritty/release/242890",
-            "http://www.discogs.com/KMD-Peachfuzz-Gasface-Refill/master/63244",
-            "http://www.discogs.com/MetalFingers-Presents-Special-Herbs-The-Box-Set-Vol0-9/master/369512"
+            "https://www.discogs.com/KMD-Instrumentals-1991-94/release/711699",
+            "https://www.discogs.com/KMD-Nitty-Gritty/release/242890",
+            "https://www.discogs.com/KMD-Peachfuzz-Gasface-Refill/master/63244",
+            "https://www.discogs.com/MetalFingers-Presents-Special-Herbs-The-Box-Set-Vol0-9/master/369512"
         ],
         "songs": {
             "? Constipated Monkey (Instrumental)": {
@@ -997,7 +997,7 @@
             },
             "Unnamed (#4 on Madvillainz Mix)": {
                 "samples": [
-                    ""
+                    "Marília Medalha - Xaxado De Espantar Tristeza"
                 ],
                 "songs": [
                     "MF DOOM feat. Jay Electronica - Light Years"
