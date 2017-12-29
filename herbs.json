@@ -868,8 +868,7 @@
                     "The New Birth - Keep on doing it"
                 ],
                 "songs": [
-                    "KMD - Contact Blitt",
-                    "Skepsys - Lost In Transaction"
+                    "KMD - Contact Blitt"
                 ]
             },
             "? Figure Of Speech (Instrumental)": {
@@ -981,6 +980,14 @@
                 "songs": [
                     "KMD - Garbage Day #3"
                 ]
+            },
+            "? Humrush (produced by The Stimulated Dummies)": {
+                "samples": [
+                    ""
+                ],
+                "songs": [
+                    "KMD - Humrush"
+                ]
             }
         }
     },
@@ -1051,7 +1058,7 @@
     },
     "Herbless": {
         "songs": {
-            "": {
+            "?": {
                 "samples": [
                     "Five Stairsteps & Cubie - The New Dance Craze",
                     "Burl Ives - I Know An Old Lady [vocal]"
@@ -1060,7 +1067,7 @@
                     "KMD - Sweet Premium Wine"
                 ]
             },
-            " ": {
+            "? ": {
                 "samples": [
                     "Cannonball Adderley - Virgo: For Pam",
                     "Gylan Kain - I Ain't Black [vocal]",
@@ -1070,7 +1077,7 @@
                     "KMD - Black Bastards"
                 ]
             },
-            "  ": {
+            "?  ": {
                 "samples": [
                     "The Mamas & the Papas - Pearl",
                     "Uncle Louie - I Like Funky Music",
@@ -1080,7 +1087,7 @@
                     "KMD - F*#@ Wit' Ya Head"
                 ]
             },
-            "   ": {
+            "?   ": {
                 "samples": [
                     "Player - Baby Come Back",
                     "Biz Markie - Things Get A Little Easier [vocal]",
@@ -1091,7 +1098,7 @@
                     "KMD - Suspended Animation"
                 ]
             },
-            "    ": {
+            "?    ": {
                 "samples": [
                     "The Hassles - 4 O'Clock In The Morning",
                     "Adriana Caselotti - Dwarfs' Yodel Song [vocal]"
@@ -1100,7 +1107,7 @@
                     "KMD - Subroc's Mission"
                 ]
             },
-            "     ": {
+            "?     ": {
                 "samples": [
                     "Johnny Guitar Watson - Superman Lover",
                     "Eddie Floyd - Bring It On Home To Me"
@@ -1109,15 +1116,7 @@
                     "KMD - Mr. Hood at Piocalles/Crackpot"
                 ]
             },
-            "      ": {
-                "samples": [
-                    "The Nite-Liters - Itchy Brother"
-                ],
-                "songs": [
-                    "KMD - Boogie Man"
-                ]
-            },
-            "       ": {
+            "?       ": {
                 "samples": [
                     "The Blackbyrds - Supernatural Feeling",
                     "Funkadelic - Call The Doctor",
@@ -1127,7 +1126,7 @@
                     "KMD - 808 Man"
                 ]
             },
-            "        ": {
+            "?        ": {
                 "samples": [
                     "Samba Soul - Mambo No. 5",
                     "Bobby Byrd - I Know You Got Soul",
@@ -1138,7 +1137,7 @@
                     "KMD - Hard Wit No Hoe"
                 ]
             },
-            "         ": {
+            "?         ": {
                 "samples": [
                     "Richard Roundtree - Lovin'"
                 ],
@@ -1146,7 +1145,7 @@
                     "KMD - Gimme"
                 ]
             },
-            "          ": {
+            "?          ": {
                 "samples": [
                     "Booker T. & The M.G.'s - No Matter What Shape (Your Stomach's In)"
                 ],
@@ -1154,12 +1153,60 @@
                     "KMD - Mr. Hood Meets Onyx"
                 ]
             },
-            "           ": {
+            "?           ": {
                 "samples": [
                     "Gil Scott-Heron & Brian Jackson - H2Ogate Blues [vocal]"
                 ],
                 "songs": [
                     "KMD - Bananapeel Blues"
+                ]
+            },
+            "?            ": {
+                "samples": [
+                    ""
+                ],
+                "songs": [
+                    "KMD - Mr. Hood Gets a Haircut"
+                ]
+            },
+            "?             ": {
+                "samples": [
+                    ""
+                ],
+                "songs": [
+                    "KMD - Preacher Porkchop"
+                ]
+            },
+            "?              ": {
+                "samples": [
+                    "Duke Ellington - Main Stem"
+                ],
+                "songs": [
+                    "KMD - Trial 'N Error"
+                ]
+            },
+            "?               ": {
+                "samples": [
+                    ""
+                ],
+                "songs": [
+                    "KMD - Soulflexin'"
+                ]
+            },
+            "? (produced by The Stimulated Dummies)": {
+                "samples": [
+                    "Malcolm X - Message To The Grass Roots [vocal]"
+                ],
+                "songs": [
+                    "KMD - Boy Who Cried Wolf"
+                ]
+            },
+            "? (produced by The Stimulated Dummies) ": {
+                "samples": [
+                    "The Nite-Liters - Itchy Brother"
+                ],
+                "songs": [
+                    "KMD - Boogie Man"
                 ]
             },
             "            ": {
@@ -1326,14 +1373,6 @@
                 ],
                 "songs": [
                     "Hassan Chop - Fresh Cutz"
-                ]
-            },
-            "                                ": {
-                "samples": [
-                    "Malcolm X - Message To The Grass Roots [vocal]"
-                ],
-                "songs": [
-                    "KMD - Boy Who Cried Wolf"
                 ]
             },
             "(Cayenne Pepper)": {
